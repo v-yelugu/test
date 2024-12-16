@@ -1,0 +1,37 @@
+.flexer{
+    display : flex;
+    justify-content: space-evenly;
+    align-items : center;
+}
+
+.flexer-space-between{
+    justify-content: space-between;
+}
+
+.flex-dir-column{
+    flex-direction : column;
+}
+
+.border-black{
+    border : 5px solid black;
+}
+
+.margin-auto{
+    margin : 50px auto;
+}
+
+#out{
+    height : 75vh;
+    width : 55vh;
+}
+
+#ip_box{
+    height : 20%;
+    width : 80%;
+}
+
+#list_box{
+    height : 60%;
+    width : 80%;
+    padding-right : 5px;
+}
